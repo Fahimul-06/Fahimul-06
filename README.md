@@ -22,16 +22,6 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 ---
 
 
-# 📊 GitHub Stats:
-
-
-
-
-## 🏆 GitHub Trophies
-
-
----
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
