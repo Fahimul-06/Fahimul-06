@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 ## 📊 My GitHub Status
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fahimul-06&show_icons=true&hide_border=true&theme=radical src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimul-06&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fahimul-06&show_icons=true&hide_border=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimul-06&layout=compact&theme=radical" />
 </div>
 
