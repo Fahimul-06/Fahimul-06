@@ -2,8 +2,9 @@
 
 
 
-# Hello, I'm Fahimul Arefin. 
-# Here is a little bit about me,
+# 👋 Hi, I'm [Fahimu Arefin]!
+Welcome to my GitHub profile! I’m a developer with experience in various programming languages, frameworks, and tools. Check out my skills and projects below!
+
 #  My Abilities:
 * I'm currently working on Full Stack Development
 * I'm looking to collaborate on developing ReactJS, Django Framework
@@ -18,22 +19,21 @@
 ## 👨‍💻 Tech Skills
 | Languages   | Level                                   |
 |-------------|----------------------------------------|
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)    | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
-| **Python**  | ![90%](https://img.shields.io/badge/Level-90%25-brightgreen) |
-| **Java**    | ![70%](https://img.shields.io/badge/Level-70%25-yellowgreen) |
-| **R**       | ![65%](https://img.shields.io/badge/Level-65%25-yellow)      |
-
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![75%](https://img.shields.io/badge/Level-80%25-brightgreen) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![95%](https://img.shields.io/badge/Level-90%25-brightgreen) |
+| ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![95%](https://img.shields.io/badge/Level-70%25-yellowgreen) |
+| ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) | ![65%](https://img.shields.io/badge/Level-65%25-yellow) |
 | Frameworks & Libraries | Level                                   |
 |------------------------|-----------------------------------------|
-| **Django**             | ![85%](https://img.shields.io/badge/Level-85%25-brightgreen) |
-| **React**              | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
-| **Bootstrap**          | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
-
-| Tools     | Level                                   |
-|-----------|-----------------------------------------|
-| **MongoDB** | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
-| **Node.js** | ![70%](https://img.shields.io/badge/Level-70%25-yellowgreen) |
-| **Arduino** | ![65%](https://img.shields.io/badge/Level-65%25-yellow)      |
+| ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) | ![85%](https://img.shields.io/badge/Level-85%25-brightgreen) |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap) | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
+| Tools     |
+|-----------|
+| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) | 
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 
 ---
 
@@ -44,62 +44,7 @@
 
 
 ## 🏆 GitHub Trophies
-M
 
-
-
-
-# 👋 Hi, I'm [Your Name]!
-
-Welcome to my GitHub profile! I’m a developer with experience in various programming languages, frameworks, and tools. Check out my skills and projects below!
-
----
-
-## 🛠️ Tech Skills and Proficiency Levels
-
-### Languages
-
-- **C++** ![★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen)
-- **Python** ![★★★★★](https://img.shields.io/badge/Level-★★★★★-brightgreen)
-- **Java** ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellowgreen)
-- **R** ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellowgreen)
-
-### Frameworks & Libraries
-
-- **Django** ![★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen)
-- **React** ![★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen)
-- **Bootstrap** ![★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen)
-
-### Tools
-
-- **MongoDB** ![★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen)
-- **Node.js** ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellowgreen)
-- **Arduino** ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellowgreen)
-
----
-
-## 🌟 Featured Projects
-
-- **[Social Media Platform](https://github.com/yourusername/social-media-platform)**  
-   _Django and React-based platform with real-time features._
-  
-- **[Age Estimation System](https://github.com/yourusername/age-estimation)**  
-   _Image-based age estimation using Python and TensorFlow._
-  
-- **[Real-Time Chat Application](https://github.com/yourusername/real-time-chat)**  
-   _Node.js and MongoDB-based messaging app with WebSocket support._
-  
-- **[Library Management System](https://github.com/yourusername/library-management-system)**  
-   _API for managing library resources, built with MongoDB, Node.js, and Express._
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</div>
 
 ---
 
