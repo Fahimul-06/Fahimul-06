@@ -1,8 +1,6 @@
 
-# 👋 Hi, I'm [Fahimu Arefin]!
+# 👋 Hi, I'm Fahimu Arefin
 
-
-#  My Abilities:
 Welcome to my GitHub profile! I’m a developer with experience in various programming languages, frameworks, and tools. Check out my skills and projects below!
 
 
@@ -16,7 +14,6 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![95%](https://img.shields.io/badge/Level-90%25-brightgreen) |
 | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![95%](https://img.shields.io/badge/Level-70%25-yellowgreen) |
 | ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) | ![65%](https://img.shields.io/badge/Level-65%25-yellow) |
-| Frameworks & Libraries |
 | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) | ![85%](https://img.shields.io/badge/Level-85%25-brightgreen) |
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap) | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
