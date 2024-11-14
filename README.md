@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 
 
 ## 👨‍💻 Tech Skills
-| Languages   | Frameworks & Libraries |
+| Languages  Frameworks & Libraries |
 |-------------|------------------------|
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)          
