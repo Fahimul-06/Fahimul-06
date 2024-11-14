@@ -3,7 +3,12 @@
 
 Welcome to my GitHub profile! I’m a developer with experience in various programming languages, frameworks, and tools. Check out my skills and projects below!
 
+## 🛠️ What I'm Working On
 
+- 🌱 **Currently Learning**: Data Analitycs.
+- 👯 **Looking to Collaborate**: Open-source projects related to web development, database management and IoT.
+
+  
 ## 👨‍💻 Tech Skills
 | Languages  Frameworks & Libraries |
 |-----------------------------------|
@@ -20,13 +25,19 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 
 ---
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</div>
+
+---
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Portfolio](https://yourportfolio.com)
+- - 📫[Email Address](mailto:arefinshowrav2000@gmail.com)
 
 ---
 
