@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 
 ---
-## 📊 GitHub Stats
+## 📊 My GitHub Status
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fahimul-06&show_icons=true&hide_border=true&theme=radical" />
