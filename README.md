@@ -3,13 +3,10 @@
 
 
 # 👋 Hi, I'm [Fahimu Arefin]!
-Welcome to my GitHub profile! I’m a developer with experience in various programming languages, frameworks, and tools. Check out my skills and projects below!
+
 
 #  My Abilities:
-* I'm currently working on Full Stack Development
-* I'm looking to collaborate on developing ReactJS, Django Framework
-* I'm currently learning Django Framework
-* Ask me about learning full stack development and AI<br>
+Welcome to my GitHub profile! I’m a developer with experience in various programming languages, frameworks, and tools. Check out my skills and projects below!
 
 
 ## 🌐 Socials:
@@ -18,7 +15,7 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 
 ## 👨‍💻 Tech Skills
 | Languages   | 
-|-------------|----------------------------------------|
+|-------------|
 | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![75%](https://img.shields.io/badge/Level-80%25-brightgreen) |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![95%](https://img.shields.io/badge/Level-90%25-brightgreen) |
 | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![95%](https://img.shields.io/badge/Level-70%25-yellowgreen) |
