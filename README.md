@@ -16,13 +16,24 @@
 
 
 ## 👨‍💻 Tech Skills
+| Languages   | Level                                   |
+|-------------|----------------------------------------|
+| **C++**     | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
+| **Python**  | ![90%](https://img.shields.io/badge/Level-90%25-brightgreen) |
+| **Java**    | ![70%](https://img.shields.io/badge/Level-70%25-yellowgreen) |
+| **R**       | ![65%](https://img.shields.io/badge/Level-65%25-yellow)      |
 
-| Languages   | Frameworks & Libraries | Tools             |
-|-------------|-------------------------|-------------------|
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)[★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen) | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code) |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) |
-| ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| Frameworks & Libraries | Level                                   |
+|------------------------|-----------------------------------------|
+| **Django**             | ![85%](https://img.shields.io/badge/Level-85%25-brightgreen) |
+| **React**              | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
+| **Bootstrap**          | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
+
+| Tools     | Level                                   |
+|-----------|-----------------------------------------|
+| **MongoDB** | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
+| **Node.js** | ![70%](https://img.shields.io/badge/Level-70%25-yellowgreen) |
+| **Arduino** | ![65%](https://img.shields.io/badge/Level-65%25-yellow)      |
 
 ---
 
