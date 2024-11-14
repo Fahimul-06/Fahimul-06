@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Fahimul-06e&color=blue)
 
 <!---
 Fahimul-06/Fahimul-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
