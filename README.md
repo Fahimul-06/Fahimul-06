@@ -18,7 +18,7 @@
 ## 👨‍💻 Tech Skills
 | Languages   | Level                                   |
 |-------------|----------------------------------------|
-| [C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)    | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)    | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
 | **Python**  | ![90%](https://img.shields.io/badge/Level-90%25-brightgreen) |
 | **Java**    | ![70%](https://img.shields.io/badge/Level-70%25-yellowgreen) |
 | **R**       | ![65%](https://img.shields.io/badge/Level-65%25-yellow)      |
