@@ -11,9 +11,10 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 ## 👨‍💻 Tech Skills
 | Languages   | | Frameworks & Libraries |
 --------------  -------------------------
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![75%](https://img.shields.io/badge/Level-80%25-brightgreen) |  | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) | ![85%](https://img.shields.io/badge/Level-85%25-brightgreen) |          
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![95%](https://img.shields.io/badge/Level-90%25-brightgreen) |
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![75%](https://img.shields.io/badge/Level-80%25-brightgreen) | 
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![95%](https://img.shields.io/badge/Level-90%25-brightgreen) |  | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) | ![85%](https://img.shields.io/badge/Level-85%25-brightgreen) |          
 | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![95%](https://img.shields.io/badge/Level-70%25-yellowgreen) |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
 | ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) | ![65%](https://img.shields.io/badge/Level-65%25-yellow) |
 | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) | ![85%](https://img.shields.io/badge/Level-85%25-brightgreen) |
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap) | ![80%](https://img.shields.io/badge/Level-80%25-brightgreen) |
