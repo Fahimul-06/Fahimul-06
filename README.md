@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 
 ## 🛠️ What I'm Working On
 
-- 🌱 **Currently Learning**: Data Analitycs.
+- 🌱 **Currently Learning**: Database management.
 - 👯 **Looking to Collaborate**: Open-source projects related to web development, database management and IoT.
 
   
