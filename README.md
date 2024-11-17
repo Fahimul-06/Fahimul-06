@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourusername)
- 📫[Email Address](mailto:arefinshowrav2000@gmail.com)
+- 📫[Email Address](mailto:arefinshowrav2000@gmail.com)
 
 ---
 
