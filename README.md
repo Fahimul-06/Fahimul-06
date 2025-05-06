@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Fahimu Arefin
 
 Welcome to my GitHub profile! I’m a developer with experience in various programming languages, frameworks, and tools. Check out my skills and projects below!
