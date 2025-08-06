@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I’m a developer with experience in various progr
 ---
 
 ## 🌐 Connect with Me
-- [linkdn https://www.linkedin.com/in/fahimul-arefin2000 Vanity URL name]
+- [linkdn https://www.linkedin.com/in/arefin-fahimul06 Vanity URL name]
 - 📫[Email Address](mailto:arefinshowrav2000@gmail.com)
 
 ---
