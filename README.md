@@ -1,43 +1,75 @@
-# 👋 Hi, I'm Fahimu Arefin
+# 👋 Hello! I'm Fahimul Arefin
 
-Welcome to my GitHub profile! I’m a developer with experience in various programming languages, frameworks, and tools. Check out my skills and projects below!
-
-## 🛠️ What I'm Working On
-
-- 🌱 **Currently Learning**: Database management.
-- 👯 **Looking to Collaborate**: Open-source projects related to web development, database management and IoT.
-
-  
-## 👨‍💻 Tech Skills
-| Languages  Frameworks & Libraries |
-|-----------------------------------| 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)          
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-| Tools     |
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) | 
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-
----
-## 📊 My GitHub Status
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fahimul-06&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimul-06&layout=compact&theme=radical" />
-</div>
+🎓 Computer Science & Engineering Graduate  
+💻 Software Developer | Full Stack Developer  
 
 ---
 
-## 🌐 Connect with Me
-- [linkdn https://www.linkedin.com/in/arefin-fahimul06 Vanity URL name]
-- 📫[Email Address](mailto:arefinshowrav2000@gmail.com)
+## 🚀 About Me
+
+I am a CSE graduate with a strong focus on **software development and full-stack web applications**. I enjoy building practical systems, writing clean code, and working across both frontend and backend.
+
+- 🔭 Currently working on real-world software systems  
+- 🌱 Continuously improving development and system design skills  
+- 🎯 Goal: Build reliable, scalable, and production-ready applications  
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Fahimul-06e&color=blue)
+## 🛠️ Tech Stack
 
-<!---
-Fahimul-06/Fahimul-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Programming Languages
+- **Java** — Advanced  
+- **Python** — Advanced  
+- **C++** — Intermediate  
+- **JavaScript** — Advanced  
+- **TypeScript** — Intermediate  
+
+---
+
+### 🌐 Web Development
+
+#### Frontend
+- React.js — Advanced  
+- HTML — Advanced  
+- CSS — Advanced  
+- Bootstrap — Advanced  
+
+#### Backend
+- Node.js — Advanced  
+- Express.js — Advanced  
+
+---
+
+### 🗄️ Databases
+- MongoDB — Advanced  
+- MySQL — Intermediate  
+
+---
+
+## ⚙️ What I Can Do
+
+✔ Build complete **full-stack web applications**  
+✔ Develop **REST APIs and backend systems**  
+✔ Design and manage **databases**  
+✔ Create **responsive and user-friendly interfaces**  
+✔ Develop **software solutions from scratch**  
+
+---
+
+## 📊 Interests
+
+- Full Stack Development  
+- Software Engineering  
+- System Design  
+- Backend Development  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *[Add your link]*  
+- 📧 Email: *[arefinshowrav2000@gmail.com]*  
+
+---
+
+⭐ *Always open to collaboration and building meaningful software!*
