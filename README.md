@@ -67,7 +67,7 @@ I am a CSE graduate with a strong focus on **software development and full-stack
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *[arefin-fahimul06]*  
+- 💼 LinkedIn: *[linkedin.com/in/arefin-fahimul06]*  
 - 📧 Email: *[arefinshowrav2000@gmail.com]*  
 
 ---
