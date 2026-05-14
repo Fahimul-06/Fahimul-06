@@ -19,7 +19,7 @@ I am a CSE graduate with a strong focus on **software development and full-stack
 
 ### 💻 Programming Languages
 - **Java** — Advanced  
-- **Python** — Advanced  
+- **Python** — Intermediate  
 - **C++** — Intermediate  
 - **JavaScript** — Advanced  
 - **TypeScript** — Intermediate  
@@ -67,7 +67,7 @@ I am a CSE graduate with a strong focus on **software development and full-stack
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *[Add your link]*  
+- 💼 LinkedIn: *[linkedin.com/in/arefin-fahimul06]*  
 - 📧 Email: *[arefinshowrav2000@gmail.com]*  
 
 ---
